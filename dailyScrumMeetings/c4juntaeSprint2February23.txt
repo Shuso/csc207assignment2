@@ -1,0 +1,12 @@
+a) What did I work on last time?
+- Completed tasks for first sprint (except blocking issues)
+- Brain stormed about what methods are needed for FileSystem class
+
+b) What do I plan to do now?
+- Work on new tasks for sprint 2
+	- Start code for FileSystem class
+	- Add implementation in Command class and its subclasses to 
+	  recognize user inputs
+
+c) Am I currently blocked on anything?
+- FileSystem need to use Directory class which is not completed

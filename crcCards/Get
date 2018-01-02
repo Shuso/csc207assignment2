@@ -1,0 +1,10 @@
+Class name: Get
+Parent class: Command
+Sub class: None
+Responsibilities:
+- Retrieves file from URL address.
+- Create an empty file and stores in local directory
+- Adds URL file content to new empty file with same name
+- Contains manual for Get command
+Collaborators:
+- File

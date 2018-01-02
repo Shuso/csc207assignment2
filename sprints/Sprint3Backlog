@@ -1,0 +1,47 @@
+//Sprint 3 Backlog.  
+February 29 to March 07
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I can navigate through directories and be able to see the content of the current directory and my full user path.
+b) As a user, I can create or remove directories or files in any specified directory location. I can also display the latest directory that has been removed.
+c) As a user, I can use command [history] so I can review my commands histories
+d) As a user, I can view my user command history in numbered order from oldest to most recent. I can also choose to display my history from a reference number.
+e) As a user, I can use command [cd] so I can change Directory
+f) As a user, I can use command [ls] so I can see the contents of current working directory
+g) As a user, I can print the documentation for a given command.
+h) As a user, I can use command man [CMD] so I can print documentation for CMD. 
+i) As a user, I can use command [pushd] so I can navigate through files more efficiently
+j) As a user, I can use command [popd] so I can navigate through files more efficiently
+
+
+Specific tasks to be accomplished:
+a-1. (File) Implement File class
+b-1. (Mkdir) Fix Mkdir class for relative paths
+b-2. (Directory) Revise and implement Directory class.
+c-1. (Man) Implement Man class. 
+c-2. (History) Revise and implement History class.
+d-1. (Ls) Implement the Ls class.
+d-2. (Pushd) Implement the Pushd class.
+e-1. (Popd) Implement the Popd class.
+e-2. (CommandManager) Add exit class and debug
+e-3. (JShell) Make sure JShell can successfully execute the program.
+f-1. (Test) create test files for mkdir, cd, ls, pwd
+f-2. (Test) create test files for cat, echo, exit,
+f-3. (Test) create test files for pushd, popd
+f-4. (Test) create test files for Man, history
+g-1. (crcCards) Finalize CRC cards.
+g-2. (Exit) Implement Exit class
+
+These tasks are assigned as follows:
+
+User: Saima Begum
+Tasks: f-2, g-1, g-2
+
+User: Monica Iqbal
+Tasks: f-3, f-1, f-4
+
+User: Tae Hoon Jun
+Tasks: d-1, b-1, e-3, e-2
+
+User: Lauren Zeng
+Tasks: c-2, a-1, d-2, e-1

@@ -1,0 +1,10 @@
+Class name: Ls
+Parent class: Command
+Sub class: None
+Responsibilities:
+- Prints the contents of the given directory
+- Prints the contents of current directory if there is no directory given
+- Recursively prints contents of all sub-directory of given directory
+- Contains manual of ls command
+Collaborators:
+- Directory

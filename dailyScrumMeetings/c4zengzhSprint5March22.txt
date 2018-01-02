@@ -1,0 +1,9 @@
+a) What did I work on last time?
+- Wrote base code for grep and redirection
+
+b) What do I plan to do now?
+- Finish grep
+- Create crc cards for grep
+
+c) Am I currently blocked on anything?
+- grep

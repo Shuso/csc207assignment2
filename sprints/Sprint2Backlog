@@ -1,0 +1,45 @@
+//Sprint 2 Backlog.  
+February 23 to February 29
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I can navigate through directories and be able to see the content of the current directory and my full user path.
+b) As a user, I can create or remove directories or files in any specified directory location. I can also display the latest directory that has been removed.
+c) As a user, I can edit files(Overwrite or append)
+d) As a user, I can enter and quit a program and add or remove content from file.
+e) As a user, I can use command [cd] so I can change Directory
+f) As a user, I can use command [ls] so I can see the contents of current working directory
+g) As a user, I can use command [echo] so I can put a string in a file
+h) As a user, I can use command [cat] so I can see the contents from different files with them concatenated
+i) As a user, I can use command [pushd] so I can navigate through files more efficiently
+j) As a user, I can use command [popd] so I can navigate through files more efficiently
+k) As a user, I can create or remove directories or files in any specified directory location. I can also display the latest directory that has been removed.
+
+Specific tasks to be accomplished:
+a-1. (FileSystem) write base code for FileSystem class
+a-2. (Command) Take user input in Command class and collaborate with subclasses
+b-1. (Mkdir) Add collaboration and inheritance to Mkdir class
+b-2. (Directory) Revise and implement Directory class.
+b-3. (Directory) Keep track of directory path in Directory class
+c-1. (Cd) Implement the Cd class
+c-2. (Echo) Implement the Echo class.
+c-3. (Ls) Implement the Ls class.
+d-1. (Cat) Implement the Cat class.
+d-2. (Pushd) Implement the Pushd class.
+e-1. (Popd) Implement the Popd class.
+e-2. (FileManager) Write base code for FileManager class
+e-3. (File) Implement the File class
+
+
+These tasks are assigned as follows:
+
+User: Saima Begum
+Tasks: c-1, c-2, d-1
+
+User: Monica Iqbal
+Tasks: c-3, e-2, e-3
+
+User: Tae Hoon Jun
+Tasks: a-1, a-2
+
+User: Lauren Zeng
+Tasks: b-1, b-2, b-3, d-2, e-1

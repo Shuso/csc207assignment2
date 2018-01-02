@@ -1,0 +1,10 @@
+Class name: Number
+Parent class: Command
+Subclasses: None
+Responsibilities:
+- Looks at the user's history and calls the command at that number in the
+history
+- Contains manual of Number command
+Collaborators:
+- History
+- CommandManager

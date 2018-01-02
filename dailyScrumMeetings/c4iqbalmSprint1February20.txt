@@ -1,0 +1,12 @@
+What did I do last time?
+- continually prompted the user for input in JShell
+- wrote base code for the Command class
+
+What do I plan to do now? 
+- work on new tasks for Sprint 2
+	- start code for FileManager and FileSystem classes
+	- start code for LS class
+- finish up CRC cards
+
+Am I blocked on anything?
+- need Directory and File to implement LS class

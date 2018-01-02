@@ -1,0 +1,10 @@
+What did I work on last time?
+- continued work on Ls class
+
+What do I plan to do now?
+- use tree data structure to help with Ls class
+
+Am I blocked on anything?
+- checking whether user's input is a special character; for example "/" for
+root directory, ".." for going back one level, etc.
+- collaboration with NODE class

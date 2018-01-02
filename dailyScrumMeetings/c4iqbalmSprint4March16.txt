@@ -1,0 +1,8 @@
+What did I do last time?
+- completed JUnit tests from Sprint 3
+
+What do I plan to do now?
+- write base code for the Number class
+
+Am I blocked on anything?
+- trying to figure out how to make History and Number classes collaborate

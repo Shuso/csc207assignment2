@@ -1,0 +1,68 @@
+User Stories										Estimated Completion Time
+As a user, I can check 				 				1 day
+whether my command is invalid
+or not.
+
+As a user, I can check				 				3 days
+whether the commands I input have the
+correct number of arguments.
+
+As a user, I can navigate		 					1 day
+through directories and be able to see the
+content of the current directory and my
+full user path. 
+
+As a user, I can create or			 				3 days
+remove directories or files in any specified 
+directory location. I can also display the
+latest directory that has been removed.
+
+As a user, I can enter and quit a		 				1 day
+program and add or remove content from
+a file.	
+
+As a user, I can view my user command 		 				3 days
+history in numbered order from oldest to 
+most recent. I can also choose to display 
+my history from a reference number.
+
+As a user, I can print the documentation					3 days
+for a given command.	 							
+
+As a user, I can enter commands with any 					1 day
+amount of white spaces.
+
+As a user, I can edit files(Overwrite or append)				2 days
+
+As a user, I can use command [exit]                 				2 hours
+so I can exit
+
+As a user, I can use command [mkdir]  						2 hours
+so I can create directory
+
+As a user, I can use command [cd]     						2 hours
+so I can Change Directory
+
+As a user, I can use command [pwd]               				2 hours
+so I can see current working directory
+
+As a user, I can use command [pushd]  				 		2 hours
+ so I can navigate through files more efficiently
+ 
+As a user, I can use command [ls]  					 	6 hours
+so I can see the contents of current working directory
+
+As a user, I can use command [popd]                  				2 hours
+so I can navigate through files more efficiently
+
+As a user, I can use command [history]   			 		2 hours
+so I can review my commands histories 
+
+As a user, I can use command [cat]   				 		4 hours
+so I can see the contents from different files with them concatenated
+
+As a user, I can use command [echo]                  				6 hours
+so I can put a string in a file.
+
+As a user, I can use command man [CMD]           				2 hours
+so I can print documentation for CMD. 

@@ -1,0 +1,8 @@
+What did I do last time?
+- worked on creating a file system
+
+What do I plan to do now?
+- write test classes 
+
+Am I blocked on anything?
+- need to figure out what test methods to write and how to code test methods

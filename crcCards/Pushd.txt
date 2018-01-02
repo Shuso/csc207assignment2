@@ -1,0 +1,8 @@
+Class name: Pushd
+Parent class: Command
+Sub class: none
+Responsibilities:
+- Adds a new directory to the stack
+- Contains manual of pushd command
+Collaborators:
+- Directory

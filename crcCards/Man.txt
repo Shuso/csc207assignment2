@@ -1,0 +1,8 @@
+Class name: Man
+Parent class: Command
+Sub class: None
+Responsibilities:
+- Return manual documentation for given command
+- Contains manual of man command
+Collaborators:
+- CommandManager

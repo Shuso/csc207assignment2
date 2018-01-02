@@ -1,0 +1,9 @@
+Class name: Mkdir
+Parent class: Command
+Sub class: None
+Responsibilities:
+- creates a new directory
+- stores new directory in the specified directory
+- Contains manual of mkdir command
+Collaborators:
+- Directory

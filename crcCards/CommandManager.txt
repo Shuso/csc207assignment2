@@ -1,0 +1,9 @@
+Class name: CommandManager
+Parent class: Command
+Sub class: None
+Responsibilities:
+- Calls appropriates commands made by user
+- Gets appropriate manual for the man command
+- Sets command names with appropriate classes
+Collaborators:
+- Command

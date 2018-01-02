@@ -1,0 +1,9 @@
+a) What did I work on last time?
+- Implemented cp and mv command
+
+b) What do I plan to do now?
+- Check errors in cp and mv command codes
+- Start write unit tests for cp and mv commands
+
+c) Am I currently blocked on anything?
+- Nothing currently

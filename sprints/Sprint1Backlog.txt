@@ -1,0 +1,37 @@
+//Sprint 1 Backlog.  
+February 17 to February 22
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I can enter commands with any amount of white spaces.
+b) As a user, I can check whether my command is invalid or not.
+c) As a user, I can use command [mkdir] so I can create directory. 
+d) As a user, I can use command [exit] so I can exit.
+e) As a user, I can use command [pwd] so I can see current working directory
+f) As a user, I can use command [history] so I can review my commands histories 
+g) As a user, I can view my user command history in numbered order from oldest to most recent. I can also choose to display my history from a reference number.
+
+Specific tasks to be accomplished:
+a-1. (JShell) Begin coding the structure of the command line interpreter
+a-2. (JShell) Have the shell continually prompt the user for input
+b-1. (JShell) Parse the user input for proper keywords
+b-2. (JShell) Implement the [exit] command.
+b-3. (Mkdir) Implement the Mkdir class.
+c-1. (Pwd) Implement the Pwd class.
+c-2. (History) Implement the History class.
+d-1. (Command) Write the base code for the Command class.
+e-1. (Directory) Write the base code for the Directory class.
+
+These tasks are assigned as follows:
+
+User: Saima Begum
+Tasks: e-1, b-3
+
+User: Monica Iqbal
+26Tasks: a-2, d-1
+
+User: Tae Hoon Jun
+Tasks: a-1, b-1, b-2 
+
+User: Lauren Zeng
+Tasks: c-1, c-2

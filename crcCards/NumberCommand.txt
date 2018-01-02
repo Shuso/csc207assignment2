@@ -1,0 +1,9 @@
+Class name: NumberCommand
+Parent class: Command
+Subclasses: None
+Responsibilities:
+- given a user's command history, executes a command at that number if that 
+number exists
+Collaborators:
+- History
+- CommandManager

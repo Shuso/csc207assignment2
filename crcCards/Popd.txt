@@ -1,0 +1,8 @@
+Class name: Popd
+Parent class: Command
+Sub class: none
+Responsibilities:
+- Prints and removes latest directory from the stack
+- Contains manual of popd command
+Collaborators:
+- Directory

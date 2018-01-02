@@ -1,0 +1,16 @@
+What did I do last time?
+- write code for Command, Directory, DirectoryManager,PWD,Shell
+- Implemented PWD and History
+
+What do I plan to do now? 
+- work on new tasks for Sprint 2
+	- start code for FileManager and FileSystem classes
+	- Integrate the code together/
+    - finish up CRC cards
+    - write code for file and Directory.
+
+Am I blocked on anything?
+- Although I did my best to implement PWD and History, but we really
+need to complete Directory before implement any code from command. I think
+keeping track of the full path of every directory/file could be a 
+challenge.

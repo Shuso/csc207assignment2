@@ -1,0 +1,9 @@
+a) What did I work on last time?
+- Started sprint 4 tasks
+	- Tried to figure out how to implement mv and cp commands
+
+b) What do I plan to do now?
+- Write base code for mv and cp commands
+
+c) Am I currently blocked on anything?
+- Trying to figure out how do mv and cp commands work

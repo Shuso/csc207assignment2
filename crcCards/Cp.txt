@@ -1,0 +1,12 @@
+Class name: Cp
+Parent class: Command
+Sub class: None
+Responsibilities:
+- Overwrites a file with new content from other file or create a file with 
+new name
+- Recursively copy directory and its sub contents to other directory
+- Copy file to other directory
+- Contains manual of Cp command
+Collaborators:
+- Directory
+- File

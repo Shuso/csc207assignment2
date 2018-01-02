@@ -1,0 +1,14 @@
+What did I do last time?
+- Committed base code for Cat class.
+- working locally on:
+	- implementing Cat class (searching for files, reading files,
+	 printing file content)
+	- base code for Echo class. 
+
+What do I plan to do now?
+- committing finalized Cat class
+- implementing Echo class (appending string into files, creating new files)
+- making sure the classes are testable for the client meeting. 
+	
+Am I blocked on anything?
+- how to create files using the Echo class (and the users input)

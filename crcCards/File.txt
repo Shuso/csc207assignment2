@@ -1,0 +1,13 @@
+Class name: File
+Parent class: None
+Sub class: None
+Responsibilities:
+- Stores all files
+- keeps track of files by name
+- keeps track of location of files
+- stores file content
+- Can edit (Overwrite or append) file content
+- Gets file content
+- Create file
+Collaborators:
+- Directory

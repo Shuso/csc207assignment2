@@ -1,0 +1,11 @@
+Class name: MV
+Parent class: Command
+Sub class: None
+Responsibilities:
+- Overwrites existing file with other file's contents and remove the other file
+- Rename an existing file
+- Recursively move directory and its sub contents to other directory 
+- Move file to other directory
+Collaborators:
+- Directory
+- File

@@ -1,0 +1,40 @@
+//Sprint 5 Backlog.  
+March 19 to March 25
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I can use command [cp] so I can move item into a given directory.
+b) As a user, I can use command [get] so I get the file in a given URL put it
+ in my current working directory.
+c) As a user, I can use command [mv] so I can copy item to a given directory.
+d) As a user, I can use command [!number] so I can  recall and execute a
+ command associated with a given number in my command history.
+e) As a user, I can use command [cat] so I can see the contents from all
+ specified files (in any given path) with them concatenated.
+f) As a user, I can use character [>>][>] so I can append or redirect the output
+ of the command to a given file  or to a new file.
+g) As a user, I can the [echo] command to display the inputed string.
+
+Specific tasks to be accomplished:
+a-1: (Number) Implement Number class. 
+b-1: (Cp) Implement Cp class.
+c-1: (Get) Implement Get class.
+c-2: (Grep) Implement Grep class. 
+d-1: (Mv) Implement Mv class.
+e-1: (Cat) Add code to concatenate files from directory path.
+e-2: (Command) Add a method to redirect output of commands to a file.
+f-1: (CRC Cards) Add CRC cards for new classes.
+f-2: (Test) Write Unit tests for all new classes. 
+
+These tasks are assigned as follows:
+
+User: Saima Begum
+Tasks: c-1, e-1, f-1, f-2
+
+User: Monica Iqbal
+Tasks: a-1, f-1, f-2
+
+User: Tae Hoon Jun
+Tasks: d-1, b-1, f-1, f-2
+
+User: Lauren Zeng
+Tasks: c-2, e-2, f-1, f-2

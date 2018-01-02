@@ -1,0 +1,12 @@
+Class name: JShell
+Parent class: none
+Sub class: none
+Responsibilities:
+- Executes the program using users input
+- Exit the program when user types exit
+- Sets root directory at the start
+- Stores user inputs to command history list
+Collaborators:
+- Directory
+- Command manager
+- History

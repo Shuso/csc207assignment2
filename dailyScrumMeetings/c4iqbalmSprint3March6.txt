@@ -1,0 +1,10 @@
+What did I do last time?
+- began creating test files for command classes
+
+What do I plan to do now?
+- make sure everything works correctly
+- make sure all test cases passed
+
+Am I blocked on anything?
+- figuring out how to implement test cases such as when a user inputs a File
+for Cd

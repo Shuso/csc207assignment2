@@ -1,0 +1,8 @@
+Class name: Command
+Parent class: None
+Sub class: Cat, Cd, Man, History, Ls, Mkdir, Popd, Pushd, Pwd
+Responsibilities:
+- Uses user command input and calls appropriate subclass
+- Validate special character for filename or folder name
+Collaborators:
+- None

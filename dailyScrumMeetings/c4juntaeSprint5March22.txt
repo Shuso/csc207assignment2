@@ -1,0 +1,9 @@
+a) What did I work on last time?
+- Wrote unit tests for cp and mv commands except minimum parts(Checking errors)
+
+b) What do I plan to do now?
+- Finish cp and mv unit tests
+- Create crc cards for cp and mv commands
+
+c) Am I currently blocked on anything?
+- Nothing currently

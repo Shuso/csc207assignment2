@@ -1,0 +1,8 @@
+Class name: Pwd
+Parent class: Command
+Sub class: None
+Responsibilities:
+- Prints the full path of current directory
+- Contains manual of pwd command
+Collaborators:
+- Directory

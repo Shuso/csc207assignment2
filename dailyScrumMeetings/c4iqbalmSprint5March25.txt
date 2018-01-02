@@ -1,0 +1,11 @@
+What did I do last time?
+- implemented toString method for NumberCommand
+- created some test cases for NumberCommand in NumberCommandTest
+
+What do I plan to do now?
+- finalize the Number class
+- add more test cases to Number class
+
+Am I blocked on anything?
+- figuring out what method(s) from CommandManager to use for CommandManager
+instance in NumberCommand class

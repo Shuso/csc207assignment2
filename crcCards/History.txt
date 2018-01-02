@@ -1,0 +1,11 @@
+Class name: History
+Parent class: Command
+Sub class: none
+Responsibilities:
+- keeps track of users commands
+- numbers them from oldest to newest
+- prints a list of users commands in numbered order
+- Contains manual of history command
+Collaborators:
+- JShell
+- Directory

@@ -1,0 +1,18 @@
+a) What did I work on last time?
+- Implement Mkdir class
+- Implement File class
+- Implement Directory class
+- Implement Popd class
+- Implement Pushd class
+
+b) What do I plan to do now?
+- Implement ls command  and echo command because they seems most challenging
+to me. 
+- complete Jshell
+
+c) Am I currently blocked on anything?
+- It is very frustrating to  debug code withough implementing Jshell and also
+getters and setters are annoying. If it is possible, i want to make all the
+ modifiers "protected". 
+- I  think there will be a lot work to do when it comes to checking validity of 
+input. 

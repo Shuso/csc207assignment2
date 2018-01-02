@@ -1,0 +1,9 @@
+Class name: Cat
+Parent class: Command
+Sub class: none
+Responsibilities:
+- Prints the content of given file
+- Concatenates all file content from any specified directory path
+- Contains manual of Cat command
+Collaborators:
+- File

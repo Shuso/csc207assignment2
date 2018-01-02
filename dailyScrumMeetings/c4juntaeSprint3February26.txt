@@ -1,0 +1,9 @@
+a) What did I work on last time?
+- Created CommandManager class to be able to access to subclasses of command(Able to parse input)
+- Node class that was made satisfy File System and Directory class all together so I didn't create File System code
+
+b) What do I plan to do now?
+- Implement CD command and try implement other commands.
+
+c) Am I currently blocked on anything?
+- Trying to figure out how to implement mkdir command.

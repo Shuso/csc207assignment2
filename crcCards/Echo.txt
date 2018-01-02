@@ -1,0 +1,10 @@
+Class name: Echo
+Parent class: Command
+Sub class: none
+Responsibilities:
+- Adds (appends or overwrites) a string to a specified file
+- Creates a file to be edited if the specified file does not exist
+- Contains manual of echo command
+Collaborators:
+- Directory
+- File

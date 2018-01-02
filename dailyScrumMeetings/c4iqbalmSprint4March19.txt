@@ -1,0 +1,11 @@
+What did I do last time?
+- wrote base code for Number class
+
+What do I plan to do now?
+- implement the Number class
+- write JUnit test for Number class
+- write CRC cards for classes that are new to this sprint
+
+Am I blocked on anything?
+- trying to figure out how to implement the runCommand for Number using an
+instance of History

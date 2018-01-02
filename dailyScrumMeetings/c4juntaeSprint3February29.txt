@@ -1,0 +1,8 @@
+a) What did I work on last time?
+- Implemented CD, Mkdir, PWD command
+
+b) What do I plan to do now?
+- Implement other commands
+
+c) Am I currently blocked on anything?
+- Trying to figure out how to validiate special characters in Mkdir class

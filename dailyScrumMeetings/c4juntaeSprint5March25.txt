@@ -1,0 +1,14 @@
+What did I do last time?
+	Completed sprint 5 tasks:
+	- completed CRC Cards
+	- completed Mv, Cp class and Unit Tests
+	Created Redirect class and Unit Tests
+	Fixed JShell and CommandManager to execute redirect class
+	Fixed Ls class to use recursion when -r is provided
+
+What do I plan to do now?
+- Add java doc to methods with no java doc
+- Make sure everything works fine
+	
+Am I blocked on anything?
+- Nothing

@@ -1,0 +1,13 @@
+Class name: Directory
+Parent class: None
+Sub class: none
+Responsibilities:
+- Remembers full directory path from root
+- Remembers directories of all files
+- Sets root directory
+- Knows current directory
+- knows sub directories and parent directory of current directory
+- remembers directory name
+- Finds directory by path
+Collaborators:
+- None

@@ -1,0 +1,12 @@
+a) What did I work on last time?
+- Made users to enter commands with any amount of white spaces in JShell
+- Implemented exit command in JShell
+- Wrote base code for Parse the user input for proper keywords
+
+b) What do I plan to do now?
+- Work on new tasks for sprint 2
+	- Figure out how to display current directory
+- Brainstorm about what methods are needed for FileSystem class
+
+c) Am I currently blocked on anything?
+- Need method in command class to parse the user input

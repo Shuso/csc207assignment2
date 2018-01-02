@@ -1,0 +1,70 @@
+USER STORIES                                        ESTIMATED COMPLETION TIME
+
+As a user, I can check whether my command           1 day
+ is invalid or not.
+
+As a user, I can enter commands with any            1 day
+ amount of white spaces.
+
+As a user, I can check                              1 day
+ whether the commands I input have the
+ correct number of arguments.
+
+As a user, I can navigate through directories		3 days
+ using the [cd] command
+
+As a user, I can use command [cp]                   2 days       
+ so I can move item into a given directory.
+
+As a user, I can use command [mkdir]                2 hours
+ so I can create directory
+
+As a user, I am able to see the content of the      1 day
+ current directory and my full user path using
+ the [pwd] command. 
+
+As a user, I can create or remove directories       3 days
+ or files in any 454  directory location 
+ using the [pushd] and [popd] commands.
+ I can also display the latest directory that
+ has been removed.	
+
+As a user, I can view my user command               3 days
+ history in numbered order from oldest to 
+ most recent. I can also choose to display 
+ any number of my most recent history using
+ the [history] command.
+ 
+As a user, I can use command [!number]              1 day               
+ so I can  recall and execute a command associated
+ with a given number in my command history.
+
+As a user, I can print the documentation            3 days
+ manual for a given command using the [man]
+ command.	 							
+
+As a user, I can use command [echo]           	   3 days
+so I can print a given string in the console.
+
+As a user, I can use command [cat]                  4 hours
+ so I can see the contents from all specified
+ files (in any given path) with them concatenated.
+
+As a user, I can use command [grep]                 3 days
+ so I can see all lines in all files
+ that contains a given expression.
+
+As a user, I can use character [>>][>]              3 days              
+ so I can append or redirect the output of
+ the command to a given file  or to a new file
+ 
+As a user, I can use command [get]                  3 days        
+ so I can get the file at given URL and
+ put it in my current working directory.
+
+As a user, I can use command [mv]                   2 days       
+ so I can copy item to a given directory.
+
+As a user, I can use command [ls]                   1 day      
+ so I can see the contents of current working
+ directory and those in their sub-directory

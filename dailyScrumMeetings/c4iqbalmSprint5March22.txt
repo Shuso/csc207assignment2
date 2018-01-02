@@ -1,0 +1,10 @@
+What did I do last time?
+- started implementation for Number class
+
+What do I plan to do now?
+- continue working on implementation for Number class
+- begin JUnit test class
+
+Am I blocked on anything?
+- trying to figure out how to implement the runCommand for Number using an
+instance of History

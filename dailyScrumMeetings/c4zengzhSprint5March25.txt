@@ -1,0 +1,11 @@
+What did I do last time?
+- wrote method for Number command
+- finished unitest for grep 
+
+What do I plan to do now?
+- finalize the Number class
+- add more test cases to Number class
+
+Am I blocked on anything?
+- unit testing is hard, to test the the ouput on console take me about 
+three hours

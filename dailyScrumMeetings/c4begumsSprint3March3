@@ -1,0 +1,13 @@
+What did I do last time?
+- tested commands that were fully implemented
+- re-organized classes and responsibilities for efficiency
+
+What do I plan to do now?
+- Work on sprint 3 tasks
+	- remove exit loop in JShell and implement an exit class
+	- write some test User Cases
+- finalize assignment
+	- make sure inheritance and collaboration is working
+	
+Am I blocked on anything?
+- Nothing currently

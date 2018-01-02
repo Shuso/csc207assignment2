@@ -1,0 +1,36 @@
+//Sprint 4 Backlog.  
+March 13 to March 19
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I can use command [cp] so I can move item into a given directory.
+b) As a user, I can use command [get] so I get the file in a given URL put it
+ in my current working directory.
+c) As a user, I can use command [mv] so I can copy item to a given directory.
+d) As a user, I can use command [!number] so I can  recall and execute a
+ command associated with a given number in my command history.
+e) As a user, I can use command [ls] so I can see the contents of current
+ working directory and those in the sub-directory
+
+Specific tasks to be accomplished:
+a-1: (Number) Write base for Number class. 
+b-1: (Cp) Write base code for Cp class.
+c-1: (Get) Implement Get class.
+c-2: (GetTest) Write a JUnit test for Get class. 
+d-1: (Mv) Write base code for Mv class.
+e-1: (Ls) Add code to recursively display all directories and sub-directories
+          when given the [-R] argument.
+
+
+These tasks are assigned as follows:
+
+User: Saima Begum
+Tasks: c-1, c-2
+
+User: Monica Iqbal
+Tasks: a-1
+
+User: Tae Hoon Jun
+Tasks: b-1, d-1
+
+User: Lauren Zeng
+Tasks: e-1

@@ -1,0 +1,10 @@
+Class name: Redirect
+Parent class: Command
+Sub class: none
+Responsibilities:
+- Redirects the content of given command into the specified file
+- Creates given file if it doesn't already exist
+Collaborators:
+- Directory
+- CommandManager
+- File

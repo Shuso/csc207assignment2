@@ -1,0 +1,12 @@
+a) What did I work on last time?
+- Implemented commands Directory, File,PopD PushD
+
+
+b) What do I plan to do now?
+- Change command based on Dictionary and File class which got seperated from NODE
+- Work on sprint 3
+	- Fix Ls, Mkdir class to fit 
+	- Rewrite basically everyhting and implemented echo
+
+c) Am I currently blocked on anything?
+ - javaDoc and Comments and Junit

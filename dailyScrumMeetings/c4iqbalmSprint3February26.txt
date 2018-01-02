@@ -1,0 +1,12 @@
+What did I do last time?
+- Began work on Ls and FileManager classes
+
+What do I plan to do now?
+- create a File class to represent actual files and a CRC card to
+complement it
+- fix any errors
+- implement FileManager
+
+Am I blocked on anything?
+- figuring out how to collaborate Directory and Ls classes in order for Ls
+to work
